@@ -16,4 +16,5 @@ class wbapache {
     }
 
     include apache
+    include apache::mod::php
 }
