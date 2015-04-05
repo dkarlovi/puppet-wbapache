@@ -4,7 +4,7 @@ class wbapache {
 
     $src_root  = "/vagrant"
     $var_root  = "/var/app"
-    $doc_root  = "${src_root}/src"
+    $doc_root  = "${src_root}/src/app/public"
     $data_root = "${var_root}/data"
 
     # NOTE: bug workaround
